@@ -34,7 +34,7 @@ jobs:
 
     - name: Get version
       id: version
-      uses: home-assistant/actions/helpers/version@master
+      uses: home-ast/actions/helpers/version@master
 
     - name: Build ${{ matrix.variant.name }}
       run: |
