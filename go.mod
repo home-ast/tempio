@@ -1,4 +1,4 @@
-module github.com/home-assistant/tempio
+module github.com/home-ast/tempio
 
 go 1.23
 
